@@ -192,7 +192,191 @@ Become a Seller
 
 
 </ul><!-- breadcrumb Ends -->
+
+
+
+
 </div><!-- col-md-12 Ends -->
+<div class="col-md-3"><!-- col-md-3 Starts -->
+
+<?php include("includes/sidebar.php"); ?>
+
+</div><!-- col-md-3 Ends -->
+<div class="col-md-9"><!-- col-md-9 Starts -->
+
+<div class="box"><!-- box Starts -->
+
+<h1>Shop</h1>
+<p>
+MetroStoresNG is your one stop shop with all you could possibly need for life and leaving. With very broad categories containing several items, all you need to do select the products you need, add to your cart and check out. Shop fabulous fashion items from or trendy and robust Fashion category. 
+</p>
+
+</div><!-- box Ends -->
+
+<div class="row"><!-- row Starts -->
+<div class="col-md-4 col-sm-6 center-responsive"><!-- col-md-4 col-sm-6 center-responsive Starts -->
+<div class="product"><!-- products Starts -->
+<a href="details.php"><!-- a Starts -->
+<img src="admin_area/product_images/product.jpg" class="img-responsive">
+</a><!-- a Ends -->
+<div class="text"><!-- text Starts -->
+
+<h3>
+<a href="details.php">Men's Casual Long-Sleeved Shirt</a>
+</h3>
+<p class="price">₦4500</p>
+
+<p class="buttons">
+<a href="details.php" class="btn btn-default">View details</a>
+<a href="details.php" class="btn btn-primary">
+<i class="fa fa-shopping-cart"></i>Add to Cart
+
+</a>
+</p>
+
+</div><!-- text Ends -->
+</div><!-- products Ends -->
+</div><!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+<div class="col-md-4 col-sm-6 center-responsive"><!-- col-md-4 col-sm-6 center-responsive Starts -->
+<div class="product"><!-- products Starts -->
+<a href="details.php"><!-- a Starts -->
+<img src="admin_area/product_images/product.jpg" class="img-responsive">
+</a><!-- a Ends -->
+<div class="text"><!-- text Starts -->
+
+<h3>
+<a href="details.php">Men's Casual Long-Sleeved Shirt</a>
+</h3>
+<p class="price">₦4500</p>
+
+<p class="buttons">
+<a href="details.php" class="btn btn-default">View details</a>
+<a href="details.php" class="btn btn-primary">
+<i class="fa fa-shopping-cart"></i>Add to Cart
+
+</a>
+</p>
+
+</div><!-- text Ends -->
+</div><!-- products Ends -->
+</div><!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+<div class="col-md-4 col-sm-6 center-responsive"><!-- col-md-4 col-sm-6 center-responsive Starts -->
+<div class="product"><!-- products Starts -->
+<a href="details.php"><!-- a Starts -->
+<img src="admin_area/product_images/product.jpg" class="img-responsive">
+</a><!-- a Ends -->
+<div class="text"><!-- text Starts -->
+
+<h3>
+<a href="details.php">Men's Casual Long-Sleeved Shirt</a>
+</h3>
+<p class="price">₦4500</p>
+
+<p class="buttons">
+<a href="details.php" class="btn btn-default">View details</a>
+<a href="details.php" class="btn btn-primary">
+<i class="fa fa-shopping-cart"></i>Add to Cart
+
+</a>
+</p>
+
+</div><!-- text Ends -->
+</div><!-- products Ends -->
+</div><!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+<div class="col-md-4 col-sm-6 center-responsive"><!-- col-md-4 col-sm-6 center-responsive Starts -->
+<div class="product"><!-- products Starts -->
+<a href="details.php"><!-- a Starts -->
+<img src="admin_area/product_images/product.jpg" class="img-responsive">
+</a><!-- a Ends -->
+<div class="text"><!-- text Starts -->
+
+<h3>
+<a href="details.php">Men's Casual Long-Sleeved Shirt</a>
+</h3>
+<p class="price">₦4500</p>
+
+<p class="buttons">
+<a href="details.php" class="btn btn-default">View details</a>
+<a href="details.php" class="btn btn-primary">
+<i class="fa fa-shopping-cart"></i>Add to Cart
+
+</a>
+</p>
+
+</div><!-- text Ends -->
+</div><!-- products Ends -->
+</div><!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+<div class="col-md-4 col-sm-6 center-responsive"><!-- col-md-4 col-sm-6 center-responsive Starts -->
+<div class="product"><!-- products Starts -->
+<a href="details.php"><!-- a Starts -->
+<img src="admin_area/product_images/product.jpg" class="img-responsive">
+</a><!-- a Ends -->
+<div class="text"><!-- text Starts -->
+
+<h3>
+<a href="details.php">Men's Casual Long-Sleeved Shirt</a>
+</h3>
+<p class="price">₦4500</p>
+
+<p class="buttons">
+<a href="details.php" class="btn btn-default">View details</a>
+<a href="details.php" class="btn btn-primary">
+<i class="fa fa-shopping-cart"></i>Add to Cart
+
+</a>
+</p>
+
+</div><!-- text Ends -->
+</div><!-- products Ends -->
+</div><!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+<div class="col-md-4 col-sm-6 center-responsive"><!-- col-md-4 col-sm-6 center-responsive Starts -->
+<div class="product"><!-- products Starts -->
+<a href="details.php"><!-- a Starts -->
+<img src="admin_area/product_images/product.jpg" class="img-responsive">
+</a><!-- a Ends -->
+<div class="text"><!-- text Starts -->
+
+<h3>
+<a href="details.php">Men's Casual Long-Sleeved Shirt</a>
+</h3>
+<p class="price">₦4500</p>
+
+<p class="buttons">
+<a href="details.php" class="btn btn-default">View details</a>
+<a href="details.php" class="btn btn-primary">
+<i class="fa fa-shopping-cart"></i>Add to Cart
+
+</a>
+</p>
+
+</div><!-- text Ends -->
+</div><!-- products Ends -->
+</div><!-- col-md-4 col-sm-6 center-responsive Ends -->
+
+
+
+</div><!-- row Ends -->
+
+<center><!-- center Starts -->
+<ul class="pagination"><!-- pagination Starts -->
+
+<li><a href="shop.php">First Page</a></li>
+<li><a href="shop.php">1</a></li>
+<li><a href="shop.php">2</a></li>
+<li><a href="shop.php">3</a></li>
+<li><a href="shop.php">4</a></li>
+<li><a href="shop.php">5</a></li>
+<li><a href="shop.php">Last Page</a></li>
+
+</ul><!-- pagination Ends -->
+</center><!-- center Ends -->
+
+</div><!-- col-md-9 Ends -->
 </div><!-- container Ends -->
 </div><!-- content Ends -->
 
