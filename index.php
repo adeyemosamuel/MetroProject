@@ -110,7 +110,7 @@ Become a Seller
 <div class="padding-nav"><!-- padding-nav Starts -->
 
 <ul class="nav navbar-nav navbar-left"><!-- nav navbar-nav navbar-left Starts -->
-<li>
+<li class="active">
   <a href="index.php"> Home </a>
 </li>
 

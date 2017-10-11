@@ -333,7 +333,90 @@ Become a Seller
 </div><!-- col-sm-6 Ends -->
 
 </div><!-- row Ends -->
+<div class="box" id="details"><!-- box Starts -->
+<p><!-- p Starts -->
 
+<h4>Product details</h4>
+<p>
+Material:Cotton
+Pattern Type:Plaid
+Collar:Turn-down Collar
+Fit: Regular
+Neckline: Collared
+Sleeve Type: Long Sleeve
+Color :Red-Black  White  Blue
+Wet Weight:0.390G
+Packet :1X  Casual Plaid Long Sleeve Shirt Fashion T-shirts
+</p>
+<h4>Size</h4>
+<ul>
+<li>Small</li>
+<li>Medium</li>
+<li>Large</li>
+<li>Xtra Large</li>
+</ul>
+</p><!-- p Ends -->
+<hr>
+</div><!-- box Ends -->
+
+<div id="row same-height-row"><!-- row same-height-row Starts -->
+<div class="col-md-3 col-sm-6"><!-- col-md-3 col-sm-6 Starts -->
+
+<div class="box same-height headline"><!-- box-same-height headline Starts -->
+
+<h3 class="text-center"> You also like these Products</h3>
+
+</div><!-- box-same-height headline Ends -->
+
+</div><!-- col-md-3 col-sm-6 Ends -->
+
+<div class="center-responsive col-md-3 col-sm-6"><!-- center-responsive col-md-3 col-sm-6 Starts -->
+<div class="product same-height"><!-- product same-height Starts -->
+<a href="details.php">
+<img src="admin_area/product_images/1.jpg" class="img-responsive">
+</a>
+<div class="text"><!-- text Starts -->
+
+<h3><a href="details.php">Men's Casual Long-Sleeved Shirt</a></h3>
+<p class="price">₦4500</p>
+
+
+</div><!-- text Ends -->
+</div><!-- product same-height Ends -->
+</div><!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+<div class="center-responsive col-md-3 col-sm-6"><!-- center-responsive col-md-3 col-sm-6 Starts -->
+<div class="product same-height"><!-- product same-height Starts -->
+<a href="details.php">
+<img src="admin_area/product_images/8.jpg" class="img-responsive">
+</a>
+<div class="text"><!-- text Starts -->
+
+<h3><a href="details.php">Men's Casual Long-Sleeved Shirt</a></h3>
+<p class="price">₦4500</p>
+
+
+</div><!-- text Ends -->
+</div><!-- product same-height Ends -->
+</div><!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+<div class="center-responsive col-md-3 col-sm-6"><!-- center-responsive col-md-3 col-sm-6 Starts -->
+<div class="product same-height"><!-- product same-height Starts -->
+<a href="details.php">
+<img src="admin_area/product_images/11.jpg" class="img-responsive">
+</a>
+<div class="text"><!-- text Starts -->
+
+<h3><a href="details.php">Men's Casual Long-Sleeved Shirt</a></h3>
+<p class="price">₦4500</p>
+
+
+</div><!-- text Ends -->
+</div><!-- product same-height Ends -->
+</div><!-- center-responsive col-md-3 col-sm-6 Ends -->
+
+
+</div><!-- row same-height-row Ends -->
 </div><!-- col-md-9 Ends -->
 
 </div><!-- container Ends -->
